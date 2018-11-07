@@ -13,7 +13,7 @@ Hands on Labs materials and Instructions categorized by year and month.  Video r
 
 YouTube Replay - Link Coming
 
-## September - Getting Started with Git
+
 [GitHub Site](https://github.com/phillydotnet/HandsOnLabs/tree/master/2018/09)
 
 [YouTube Replay](https://www.youtube.com/watch?v=SGzEpRdT7nk)
